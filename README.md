@@ -33,5 +33,6 @@ Seaborn Taxis Dataset (6433 rows, 14 columns).
 3. Heatmap
 4. Pair Plot
 5. Violin Plot
-###Result
+
+## Result
 Successfully performed data visualization using Matplotlib and Seaborn to understand taxi trip patterns, fare distribution and payment methods.
